@@ -57,6 +57,9 @@ java와 MySQL을 활용한 학생 성적 관리 프로그램 제작
 ## 7. 종료
    - 학생 성적 성적 관리프로그램을 종료한다.
 
+![종료](https://user-images.githubusercontent.com/115532120/195984623-fbc90b12-dfd3-4d25-97d5-9f9560c08911.PNG)
+
+
 
 
 
